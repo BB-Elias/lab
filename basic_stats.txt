@@ -1,0 +1,2 @@
+Keyword;Search Volume;CPC;Competition
+poster;60500;0.62;1
