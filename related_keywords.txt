@@ -1,0 +1,6 @@
+Keyword;Search Volume;CPC;Competition;Related Relevance
+handla posters;50;0;1;0.6
+poster köpa;90;0.49;1;0.6
+posters affischer;210;0.44;1;0.6
+köp posters online;140;0.59;1;0.55
+köpa posters;480;0.52;1;0.55
