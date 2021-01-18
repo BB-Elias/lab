@@ -1,0 +1,6 @@
+Keyword;Search Volume;CPC;Competition;Related Relevance
+byggmaterial nätet;50;0;0.57;0.25
+billigt byggmaterial;140;0.38;0.94;0.2
+byggmaterial vara;90;0;0.25;0.2
+byggmaterial göteborg;70;0.7;0.22;0.15
+byggvaror;1300;0.44;0.3;0.15
